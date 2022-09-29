@@ -327,8 +327,18 @@ https://talently.tech/blog/ventajas-de-php/
 
 
 ## ***Python***
+ 
+ **HolaMundo**
 
-![Logo python](/escriptori/image/python.jpg "python logo")
+![](holamundo.png)
+ 
+ **Ingresenombre**
+ 
+ ![](ingresenombre.png)
+ 
+ **Infojobs**
+ 
+ ![](infojobs1.png)![](infojobs.png)
 
 
     
