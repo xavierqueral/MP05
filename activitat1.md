@@ -338,7 +338,7 @@ https://talently.tech/blog/ventajas-de-php/
  
  **Infojobs**
  
- *Presencial*
+ ### *Presencial*
  
  ![](infojobspresencial.png)
 
@@ -352,7 +352,8 @@ https://talently.tech/blog/ventajas-de-php/
  
 **Salari:** 33.000€-36.000€ bruts/any
  
- *Teletreball*
+ 
+ ### *Teletreball*
  
  ![](infojobsteletreball.png)
  
@@ -365,6 +366,27 @@ https://talently.tech/blog/ventajas-de-php/
 **Duració del contracte:** Indefinit, jornada completa
  
 **Salari:** 21.000€-30.000€ bruts/any
+ 
+ 
+ ### *Híbrid*
+ 
+ ![](infojobshibrid.png)
+ 
+ **Estudis mínims:** CFGS Programació
+ 
+**Experiència:** Almenys 1 any
+ 
+**Coneixements:** Python, Jira, SQL, Git, Backend, WebServices
+ 
+**Duració del contracte:** Indefinit, jornada completa
+ 
+**Salari:** 24.000€-30.000€ bruts/any
+ 
+ 
+ 
+ 
+ 
+
  
     
     
