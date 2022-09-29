@@ -3,23 +3,38 @@
 **Busca la forma de crear el programa Hello World en algun llenguatge de programació que NO sigui JAVA, PYTHON o ASSEMBLER.
 Un programa Hello World imprimeix per pantalla la frase “Hello Word”.**
 
-## EXEMPLE DE LLENGUATGE C -"HELLO WORLD"
+## EXEMPLE DE LLENGUATGE C++ "HELLO WORLD"
 
-/* Programa: Hola mundo */
-
-#include <conio.h>
-
-#include <stdio.h>
-
-int main()
-
-{
-    print( "Hola mundo." );
-    
-    getch(); /* Pausa */
-    
-    return 0;
+//Programa: HolaMundo
+ 
+#include <iostream>
+ 
+using namespace std;
+ 
+int main() {
+ 
+cout << “¡Hola Mundo!”;
+ 
 }
+    
+### Explicació del codi per a programar Hola Mundo:
+    
+ **Línia 1:** //Programa: HolaMundo
+    
+    Comença amb // indicant que la resta de línies és un comentari
+    
+ **Línia 2:** #include <iostream>
+    
+    Indica al processador que té que incloure en el programa el contingut de l'encapçalament entrada/sortida
+    
+ **Línia 3:** using namespace std;
+    
+    Indica que serà utilitzat l'espai de nombres estàndards
+  
+ **Línia 4:** int main(){
+    
+    Forma part de tot programa C++. Conté l'inici de la funció main, les claus indiquen l'inici i final de la funció main
+    
 
 # Activitat 2
 
