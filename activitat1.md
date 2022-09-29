@@ -33,8 +33,11 @@ cout << “¡Hola Mundo!”;
   
  **Línia 4:** int main(){
     
+  Forma part de tot programa C++. Conté l'inici de la funció main, les claus indiquen l'inici i final de la funció main
  
-    Forma part de tot programa C++. Conté l'inici de la funció main, les claus indiquen l'inici i final de la funció main
+## ***WebGrafía***
+ 
+ https://programacion.top/c-plus-plus/programar-un-hola-mundo-en-c-plus-plus/
     
 
 # Activitat 2
@@ -274,7 +277,7 @@ Només s'executa en un servidor i cal un servidor web perquè funcioni.
 
 No té eines de depuració, que són necessàries per buscar errors i advertències
 
-## ***Referències***
+## ***WebGrafía***
 
 **Python**
 
