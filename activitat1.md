@@ -246,8 +246,16 @@ El codi PHP s'executa al servidor que, en llegir les comandes, pot activar tots 
 
 ### ***Història***
 
-Dissenyat originalment pel programador Rasmus Lerdorf l'any 1994 per a mostrar el seu CV i guardar dades, com la quantitat de tràfic que rebia la seva pàgina web.
-Originalment, les sigles PHP volien dir "Personal Home Page Tools", però més tard dos programadors anomenats Zeev Suraski i Andi Gutmans, van reescriure l'analitzador sintàctic i van crear la base PHP3 canviant així també el nom a PHP: Hypertext Preprocessor.
+PHP és un software lliure, nascut l'any 1994 de la mà de Rasmus Lerdof, que ha anat creixent gràcies a les aportacions dels membres de la comunitat de PHP, que avui dia compta amb un potent nucli de llenguatge i moltes llibreries.
+
+Inicialment, PHP (Personal Home Page) va sorgir com un CGI escrit en C (Common Gateway Interface) o "Interfax d'Entrada Comú", és una API del servidor web. Moltes persones es van interessar pel sistema i van sol·licitar al seu creador l'autorització per poder utilitzar-lo en les seves pròpies pàgines. Rasmus Lerdof va dissenyar un sistema específic per a processar i interpretar formularis anomenat FI (Form Interpreter), que unit a PHP van donar lloc a la primera versió compacta del llenguatge: PHP/FI.
+
+Tres anys més tard es van afegir grans millores, la inclusió de l'analitzador sintàctic, el suport a nous protocols d'Internet i a les bases de dades comercials, creant així la versió 3 de PHP. Això va animar als desenvolupadors crear les seves webs amb PHP.
+
+Posteriorment, amb la versió 4 de PHP es va crear el motor Zend, guanyant velocitat (compilant primer per a després executar-se), amb independència del servidor web i amb una API amb més funcions i més completa. La versió 5 de PHP va incorporar una millor integració de la Programació Orientada a Objectes.
+
+Finalment amb la versió PHP 7 s'incorporen millores quant al rendiment situant a PHP entre els llenguatges més forts.
+ 
 
 ### ***Avantatges***
 
