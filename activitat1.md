@@ -35,7 +35,7 @@ cout << “¡Hola Mundo!”;
  
     Forma part de tot programa C++. Conté l'inici de la funció main, les claus indiquen l'inici i final de la funció main
  
-## ***WebGrafía***
+### WebGrafía
  
  https://programacion.top/c-plus-plus/programar-un-hola-mundo-en-c-plus-plus/
     
@@ -277,7 +277,7 @@ Només s'executa en un servidor i cal un servidor web perquè funcioni.
 
 No té eines de depuració, que són necessàries per buscar errors i advertències
 
-## ***WebGrafía***
+### WebGrafía
 
 **Python**
 
