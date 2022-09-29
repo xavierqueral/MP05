@@ -33,6 +33,7 @@ cout << “¡Hola Mundo!”;
   
  **Línia 4:** int main(){
     
+ 
     Forma part de tot programa C++. Conté l'inici de la funció main, les claus indiquen l'inici i final de la funció main
     
 
