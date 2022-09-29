@@ -193,7 +193,12 @@ El llenguatge C és un llenguatge estructurat. És un llenguatge per a programad
 
 ### **Història**
 
-Originalment desenvolupat per Dennis M. Ritchie entre 1969 i 1972 als Laboratoris Bell, com a evolució de l'anterior llenguatge B.
+Tot va començar l'any 1970, al laboratori de l'empresa Bell, quan Dennis Ritchie juntament amb Brian Kernighan començaren a treballar en el llenguatge C. El que es pretenia amb C era trobar un compilador que poguera garantir la consistència i la velocitat de cada terminal. Es volia un sistema operatiu eficient.
+
+Aquests programadors van unir el BCPL, llenguatge senzill i ràpid, amb el B, que era lent perquè estava ple d'instruccions. El resultat va ser en llenguatge C, el qual va permetre a Thompson abandonar i reescriure UNIX (sistema operatiu).
+
+L'any 1973 en llenguatge C estava prou madur com perquè el 90% d'UNIX fos reescrit amb aquest llenguatge. L'any 1974, els laboratoris Bell van concedir la llicència d'UNIX a les universitats i així es va començar a distribuir en llenguatge C.
+ 
 
 ### ***Avantatges***
 
@@ -228,7 +233,7 @@ Constructor i Destructor són funcionalitat molt útils en programes orientats a
 
 En C, per ser un llenguatge més orientat a treballar prop la màquina, l'ocultació de dades no és la prioritat. Baixos nivells d'abstracció poden afectar la seguretat del llenguatge.
 
-## C
+## PHP
 
 ### ***Què és?***
 
@@ -284,13 +289,13 @@ No té eines de depuració, que són necessàries per buscar errors i advertènc
 
 **Python**
 
-https://es.wikipedia.org/wiki/Python
+https://www.tokioschool.com/noticias/historia-python/
 
 https://keepcoding.io/blog/ventajas-y-desventajas-de-python/
 
 **Java**
-
-https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)
+ 
+https://www.manualweb.net/java/historia-java/
 
 https://aws.amazon.com/es/what-is/java/
 
@@ -299,8 +304,8 @@ https://www.computerworld.es/archive/la-gran-aportacion-de-java-a-la-industria-e
 https://www.crehana.com/blog/desarrollo-web/ventajas-desventajas-java/
 
 **C**
-
-https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)
+ 
+https://flashdata.org/el-lenguaje-de-programacion-c-y-su-historia/
 
 https://informatica.uv.es/estguia/ATD/apuntes/laboratorio/Lenguaje-C.pdf
 
