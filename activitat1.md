@@ -56,9 +56,11 @@ Python és un llenguatge d'alt nivell de programació interpretat. S'utilitza pe
 
 ### ***Història***
 
-Creat a finals dels anys 80, per en Guido van Rossum al (CWI, Centre per a les Matemàtiques i la Informàtica).
+Guido Van Rossum, informàtic d'origen holandès és el creador de Python. Durant l'any 1989 Van Rossum treballava al centre d'investigació holandès (CWI) i va decidir començar en un projecte nou. Python es va començar a implementar el febrer de l'any 1991, la primera versió pública: la 0.9.0.
 
-El llenguatge es diu així per l’afició del seu creador als Monthy Python, humoristes britànics.
+Aquesta primera versió incloïa herències, maneig d'excepcions, funcions i funcionament modular.
+
+L'octubre de l'any 2000 es va publicar la segona versió de Python, on es va incloure la generació de llistes, la versió: 2.0. La versió de Python 3.0 es va implementar l'any 2002. L'octubre de l'any 2020, amb la versió: 3.9 i finalment el 6 de setembre del 2022 es va llançar la versió 3.10.7 de Python.
 
 ### ***Novetats o aportacions*** 
 
@@ -127,9 +129,10 @@ Qualsevol fitxer Java es compila primer en codi de bytes. El codi de bytes de Ja
 
 ### ***Història:***
 
-Alguns usos habituals: Java es va crear com a una eina de programació en Sun Microsystems l'any 1991. L'equip de desarrolladors estava compost per 13 persones i dirigit per James Gosling.
+El llenguatge Java va ser desenvolupat en els seus inicis per James gosling, l'any 1991. Encara que inicialment es coneixia amb el nom d'Oak o Green.
 
-El llenguatge va néixer amb el nom de Oak, encara que més tard es va canviar el nom de Green per finalment anomenar-se tal com el coneixem avui dia: Java.
+La primera versió de Java va ser publicada per Sun Microsystems l'any 1995. I és en la versió 1.0.2, quan passa a dir-se Java, sobre l'any 1996. En les primeres versions de Java 1.1, 1.2 i 1.3 són en les que el llenguatge va agafant forma. El novembre de l'any 2006 Sun Microsystems converteix Java en Open Source. 
+ 
 
 ### ***Avantatges***
 
