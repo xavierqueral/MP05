@@ -338,9 +338,34 @@ https://talently.tech/blog/ventajas-de-php/
  
  **Infojobs**
  
- ![](infojobs1.png)![](infojobs.png)
+ *Presencial*
+ 
+ ![](infojobspresencial.png)
 
-
+**Estudis mínims:** CFGS Programació
+ 
+**Experiència:** Almenys 1 any
+ 
+**Coneixements:** Python, SQL, Django, Bigdata
+ 
+**Duració del contracte:** Estable
+ 
+**Salari:** 33.000€-36.000€ bruts/any
+ 
+ *Teletreball*
+ 
+ ![](infojobsteletreball.png)
+ 
+**Estudis mínims:** CFGS Programació
+ 
+**Experiència:** Almenys 1 any
+ 
+**Coneixements:** Python
+ 
+**Duració del contracte:** Indefinit, jornada completa
+ 
+**Salari:** 21.000€-30.000€ bruts/any
+ 
     
     
 
