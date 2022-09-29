@@ -327,9 +327,9 @@ https://talently.tech/blog/ventajas-de-php/
 
 ## ***Python***
 
-![Logo](/image/python.jpg)
+![Logo python](/escriptori/image/python.jpg "python logo")
 
-<image src="/image/python.jpg" alt="logo python">
+
     
     
 
