@@ -30,3 +30,4 @@ import random
 numeroAleatorio = random.randint(1, 6)
 print(numeroAleatorio)
 
+![](py.jpg)
