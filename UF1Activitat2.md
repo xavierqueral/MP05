@@ -26,7 +26,7 @@ int main()
 
 -Agreguem MinGW al PATH del sistema per tal que el sistema operatiu pugui buscar els executables necessaris des de la línia de comandes o el Terminal.
 
--
+![](compilatC.jpg)
 
 
 
