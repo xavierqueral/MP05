@@ -45,6 +45,7 @@ Atès que un compilador tradueix el codi font a un llenguatge màquina específi
 
 Un dels desavantatges de tenir un compilador és que veritablement ha de compilar codi font. Mentre que els petits programes que molts desenvolupadors novells codifiquen requereixen quantitats trivials de temps per ser compilats, les grans suites d'aplicacions poden trigar quantitats significatives de temps a compilar.
 
+https://techlandia.com/ventajas-desventajas-compiladores-info_103356/
 
 **Python**
 
@@ -83,6 +84,8 @@ Es necessita un programari que serveix per interpretar les instruccions del proc
 
 No tots els programaris estan disponibles a totes les plataformes.
 
+https://vidabytes.com/lenguaje-interpretado/
+
 **Java**
 
 import java.util.Random;
@@ -112,6 +115,25 @@ public class numeroAleatorio {
 -La comanda anterior generarà un fitxer amb extensió .class que esta llest per executar-lo.
 
     
+**Avantatges**
+
+Necessita menys components físics de maquinari
+
+Millor en termes de seguretat
+
+Podeu executar diversos sistemes operatius
+
+Tenir estructura ISA
+
+**Desaventatges**
+
+Es pot haver de sacrificar amb el rendiment
+
+Qüestió d'eficiència en el resultat
+
+Estructura complexa
+
+https://aprendiendoaprogramar.es/blog/ventajas-y-desventajas-de-la-maquina-virtual/
 
 
 
