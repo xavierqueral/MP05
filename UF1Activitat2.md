@@ -28,6 +28,11 @@ int main()
 
 ![](compilatC.jpg)
 
+-Amb la següent comanda, compilarem el fitxer en C: 
+   gcc main.c 
+   
+-L'anterior comanda generarà un .exe llest per ser executat.
+
 
 
 **Python**
