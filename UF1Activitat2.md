@@ -34,6 +34,10 @@ print(numeroAleatorio)
 
 ![](py.jpg)
 
+-Podem executar el codi Python a través de la consola que porta integrada el SublimeText amb la comanda Ctrl+B.
+
+-Primerament activant l'interperet de Python: tools>Build System>Python.
+
 **Java**
 
 import java.util.Random;
