@@ -22,6 +22,13 @@ int main()
 }
 ![](C.jpg)
 
+-Instal·lar el compilador MinGW per a fcompilar fitxers en extensió .c
+
+-Agreguem MinGW al PATH del sistema per tal que el sistema operatiu pugui buscar els executables necessaris des de la línia de comandes o el Terminal.
+
+-
+
+
 
 **Python**
 
