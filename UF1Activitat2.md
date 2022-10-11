@@ -53,4 +53,13 @@ public class numeroAleatorio {
 
 ![](java.jpg)
 
+El compilador emprat s'anomena "javac" (jaca.exe) i és l'encarregat de transformar el codi font escrit en Java al llenguatge de la màquina virtual Java (bytecode). 
+Una volta instal·lat el JDK de Java.
+La comanda a utilitzar per a compilar el codi Java és: 
+    javac nomdelfitxer.java
+La comanda anterior generarà un fitxer amb extensió .class que esta llest per executar-lo.
+
+    
+
+
 
