@@ -61,6 +61,28 @@ print(numeroAleatorio)
 
 -Primerament activant l'interperet de Python: tools>Build System>Python.
 
+**Avantatges**
+
+S'arriben a executar a qualsevol plataforma.
+
+No ocupen gairebé espai a la memòria.
+
+L'entorn del treball és el que s'arriba a encarregar que el maquinari executa les instruccions que se'ls doni.
+
+Les variables de dades utilitzades arriben a ser dinàmiques per la qual cosa no es restringeixen a un tipus específic.
+
+Aquests llenguatges són molt utilitzats en el desenvolupament web i de lelectrònica.
+
+**Desaventatges**
+
+L'execució d'aquests llenguatges és més lenta a diferència dels llenguatges compilats.
+
+Són difícils de depurar.
+
+Es necessita un programari que serveix per interpretar les instruccions del processador.
+
+No tots els programaris estan disponibles a totes les plataformes.
+
 **Java**
 
 import java.util.Random;
