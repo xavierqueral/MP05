@@ -34,3 +34,22 @@ print(numeroAleatorio)
 
 ![](py.jpg)
 
+**Java**
+
+import java.util.Random;
+public class numeroAleatorio {
+    public static void main( String args[] ) {
+        
+      // declarar e instanciar la classe Random con la variable rand    
+      Random rand = new Random(); 
+      // numero maximo aleatorio que puede salir
+      int numMaxDado = 6;
+      // sumamos 1 porque el resultado de la funcion nextInt devuelve un numero entre 0 y el valor pasado por argumento sin incluirlo
+      int numRandom = rand.nextInt(numMaxDado) + 1; 
+      
+      System.out.println("Numero aleatorio : "+numRandom);
+    }
+}
+
+
+
