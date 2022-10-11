@@ -33,13 +33,13 @@ int main()
    
 -L'anterior comanda generarà un .exe llest per ser executat.
 
-**Ventatja**
+**Avantatges**
 
 Un gran avantatge dels programes que es compilen és que són unitats autònomes llestes per ser executades.
 
 Compilar un programa també pot incrementar el desenvolupament daquest últim. Els usuaris poden enviar opcions específiques als compiladors, relacionades amb els detalls del maquinari on s'executarà el programa. Això permet que el compilador generi codi en llenguatge màquina que fa un ús més eficient del maquinari especificat, a diferència del codi més genèric.
 
-**Desaventatjes**
+**Desaventatges**
 
 Atès que un compilador tradueix el codi font a un llenguatge màquina específic, els programes han de ser compilats específicament per a OS X, Windows o Linux, així com per a arquitectures de 32 o 64 bits.
 
