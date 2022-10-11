@@ -1,3 +1,4 @@
+**C**
 
 /******************************************************************************
 
@@ -20,3 +21,12 @@ int main()
     return 0;
 }
 ![](C.jpg)
+
+
+**Python**
+
+import random
+
+numeroAleatorio = random.randint(1, 6)
+print(numeroAleatorio)
+
